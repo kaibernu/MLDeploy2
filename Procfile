@@ -1,1 +1,0 @@
-web: streamlit run get_house_price:app
