@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run get_house_price.py
+web: streamlit run get_house_price.py –server.enableCORS false –server.port $PORT
